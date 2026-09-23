@@ -1,6 +1,6 @@
 # wonders-of-reading
 
-> A static webpage about a hobby using HTML & CSS
+> A static webpage about a hobby using HTML & CSS.
 
 ## Built With
 * HTML
